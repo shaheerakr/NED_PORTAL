@@ -1,0 +1,48 @@
+shaheer
+
+shaheer'Details
+
+
+Age: 19
+Address: khi
+Year: FIRST
+Board: KHI
+Department: CSIT
+Roll No: 55
+Email : SH
+Contact: 00
+
+***
+
+imam
+
+imam'Details
+
+
+Age: 19
+Address: johar
+Year: FIRST
+Board: khi
+Department: CSIT
+Roll No: 47
+Email : imam@gmail.com
+Contact: 00
+
+***
+
+qadir
+
+qadir'Details
+
+
+Age: qadir18
+Address: gulshan
+Year: FIRST
+Board: KHI
+Department: CSIT
+Roll No: 64
+Email : QADIR@GMAIL.COM
+Contact: 00
+
+***
+

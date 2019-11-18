@@ -1,0 +1,46 @@
+						*** COURSE OUTLINE ***
+
+				    *** DATA STRUCTURES APPLICATION AND ALOGRITHMS ***
+					RECOMMENDED BOOK: DATA STRUCTURE IN C
+1. Algorithm analysis
+2. Big-O notation
+3. Introduction to Abstract Data Types
+4. Arrays
+5. Linked List
+6. Stacks and it's applications
+7. Queues and it's applications
+8. Graphs
+9. Trees
+
+					   *** OBJECT ORIENTED PROGRAMMING ***
+					RECOMMENDED BOOK: OOP IN C++ BY ROBERT LAFORE	
+1. Introduction to Object Oriented Programming
+2. Introduction to classes and objects
+3. Constructors
+4. Function overloading
+5. Operator overloading
+6. Virtual functions
+7. Abstract classes
+
+					       *** DISCRETE MATHEMATICS ***
+				    RECOMMENDED BOOK: DISCRETE MATHEMATICS BY KENNETH.H ROSEN
+1. Introduction to Discrete mathematics
+2. Logic gates
+3. Graphs
+4. Trees
+5. Recursive algorithms
+
+						*** FUNCTIONAL ENGLISH ***
+1. Pre-writing strategies
+2. Precis writing
+3. Idioms
+4. Paragraph writing
+5. Note taking strategies
+6. Letter writing
+
+						 *** PAKISTAN STUDIES ***
+1. Brief history of Pakistan
+2. Land of Pakistan
+3. Constitutition development in Pakistan
+4. Economy of Pakistan
+5. Foreign policy of Pakistan
